@@ -101,7 +101,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Dashboard Ankit",
       "href": "https://dashboard.mintlify.com"
     }
   },
